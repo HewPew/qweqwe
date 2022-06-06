@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d118573-e205-4f24-b5c3-51e18546c7d6" name="ndvhost.ru">
+        <fileTransfer accessType="SFTP" host="45.141.76.143" port="22" sshConfigId="df0107c8-e5d4-446a-ad92-b6bee970837a" sshConfig="admin@45.141.76.143:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="770153be-bd12-4237-bedf-b8348d4920e4" name="laravel.ndvhost.ru" url="http://45.141.76.143">
+        <fileTransfer host="45.141.76.143" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

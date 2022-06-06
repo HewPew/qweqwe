@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="45.141.76.143" id="25625f57-2d82-43d6-9deb-37266b0d7321" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="10.255.70.18" id="84776e42-ba72-4d6b-806a-57737179b729" port="22" customName="БОЕВОЙ" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="БОЕВОЙ" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="45.141.76.143" id="df0107c8-e5d4-446a-ad92-b6bee970837a" port="22" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
